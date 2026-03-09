@@ -1,0 +1,151 @@
+id,subject,topic,title,description,resource_link,resource_type
+1,Math,Derivatives,Derivatives Tutorial 1,Complete explanation of Derivatives concepts for beginners,https://example.com/derivatives/0,practice
+2,Math,Derivatives,Derivatives Tutorial 2,Complete explanation of Derivatives concepts for beginners,https://example.com/derivatives/1,article
+3,Math,Derivatives,Derivatives Tutorial 3,Complete explanation of Derivatives concepts for beginners,https://example.com/derivatives/2,video
+4,Math,Derivatives,Derivatives Tutorial 4,Complete explanation of Derivatives concepts for beginners,https://example.com/derivatives/3,video
+5,Math,Derivatives,Derivatives Tutorial 5,Complete explanation of Derivatives concepts for beginners,https://example.com/derivatives/4,video
+6,Math,Derivatives,Derivatives Tutorial 6,Complete explanation of Derivatives concepts for beginners,https://example.com/derivatives/5,video
+7,Math,Integrals,Integrals Tutorial 1,Complete explanation of Integrals concepts for beginners,https://example.com/integrals/0,article
+8,Math,Integrals,Integrals Tutorial 2,Complete explanation of Integrals concepts for beginners,https://example.com/integrals/1,video
+9,Math,Integrals,Integrals Tutorial 3,Complete explanation of Integrals concepts for beginners,https://example.com/integrals/2,article
+10,Math,Integrals,Integrals Tutorial 4,Complete explanation of Integrals concepts for beginners,https://example.com/integrals/3,practice
+11,Math,Integrals,Integrals Tutorial 5,Complete explanation of Integrals concepts for beginners,https://example.com/integrals/4,practice
+12,Math,Integrals,Integrals Tutorial 6,Complete explanation of Integrals concepts for beginners,https://example.com/integrals/5,practice
+13,Math,Linear Algebra,Linear Algebra Tutorial 1,Complete explanation of Linear Algebra concepts for beginners,https://example.com/linear_algebra/0,article
+14,Math,Linear Algebra,Linear Algebra Tutorial 2,Complete explanation of Linear Algebra concepts for beginners,https://example.com/linear_algebra/1,practice
+15,Math,Linear Algebra,Linear Algebra Tutorial 3,Complete explanation of Linear Algebra concepts for beginners,https://example.com/linear_algebra/2,video
+16,Math,Linear Algebra,Linear Algebra Tutorial 4,Complete explanation of Linear Algebra concepts for beginners,https://example.com/linear_algebra/3,practice
+17,Math,Linear Algebra,Linear Algebra Tutorial 5,Complete explanation of Linear Algebra concepts for beginners,https://example.com/linear_algebra/4,article
+18,Math,Linear Algebra,Linear Algebra Tutorial 6,Complete explanation of Linear Algebra concepts for beginners,https://example.com/linear_algebra/5,article
+19,Math,Probability,Probability Tutorial 1,Complete explanation of Probability concepts for beginners,https://example.com/probability/0,video
+20,Math,Probability,Probability Tutorial 2,Complete explanation of Probability concepts for beginners,https://example.com/probability/1,video
+21,Math,Probability,Probability Tutorial 3,Complete explanation of Probability concepts for beginners,https://example.com/probability/2,video
+22,Math,Probability,Probability Tutorial 4,Complete explanation of Probability concepts for beginners,https://example.com/probability/3,video
+23,Math,Probability,Probability Tutorial 5,Complete explanation of Probability concepts for beginners,https://example.com/probability/4,video
+24,Math,Probability,Probability Tutorial 6,Complete explanation of Probability concepts for beginners,https://example.com/probability/5,video
+25,Math,Trigonometry,Trigonometry Tutorial 1,Complete explanation of Trigonometry concepts for beginners,https://example.com/trigonometry/0,article
+26,Math,Trigonometry,Trigonometry Tutorial 2,Complete explanation of Trigonometry concepts for beginners,https://example.com/trigonometry/1,video
+27,Math,Trigonometry,Trigonometry Tutorial 3,Complete explanation of Trigonometry concepts for beginners,https://example.com/trigonometry/2,video
+28,Math,Trigonometry,Trigonometry Tutorial 4,Complete explanation of Trigonometry concepts for beginners,https://example.com/trigonometry/3,video
+29,Math,Trigonometry,Trigonometry Tutorial 5,Complete explanation of Trigonometry concepts for beginners,https://example.com/trigonometry/4,video
+30,Math,Trigonometry,Trigonometry Tutorial 6,Complete explanation of Trigonometry concepts for beginners,https://example.com/trigonometry/5,video
+31,Physics,Newton Laws,Newton Laws Tutorial 1,Complete explanation of Newton Laws concepts for beginners,https://example.com/newton_laws/0,practice
+32,Physics,Newton Laws,Newton Laws Tutorial 2,Complete explanation of Newton Laws concepts for beginners,https://example.com/newton_laws/1,video
+33,Physics,Newton Laws,Newton Laws Tutorial 3,Complete explanation of Newton Laws concepts for beginners,https://example.com/newton_laws/2,practice
+34,Physics,Newton Laws,Newton Laws Tutorial 4,Complete explanation of Newton Laws concepts for beginners,https://example.com/newton_laws/3,practice
+35,Physics,Newton Laws,Newton Laws Tutorial 5,Complete explanation of Newton Laws concepts for beginners,https://example.com/newton_laws/4,practice
+36,Physics,Newton Laws,Newton Laws Tutorial 6,Complete explanation of Newton Laws concepts for beginners,https://example.com/newton_laws/5,article
+37,Physics,Thermodynamics,Thermodynamics Tutorial 1,Complete explanation of Thermodynamics concepts for beginners,https://example.com/thermodynamics/0,article
+38,Physics,Thermodynamics,Thermodynamics Tutorial 2,Complete explanation of Thermodynamics concepts for beginners,https://example.com/thermodynamics/1,article
+39,Physics,Thermodynamics,Thermodynamics Tutorial 3,Complete explanation of Thermodynamics concepts for beginners,https://example.com/thermodynamics/2,article
+40,Physics,Thermodynamics,Thermodynamics Tutorial 4,Complete explanation of Thermodynamics concepts for beginners,https://example.com/thermodynamics/3,practice
+41,Physics,Thermodynamics,Thermodynamics Tutorial 5,Complete explanation of Thermodynamics concepts for beginners,https://example.com/thermodynamics/4,practice
+42,Physics,Thermodynamics,Thermodynamics Tutorial 6,Complete explanation of Thermodynamics concepts for beginners,https://example.com/thermodynamics/5,practice
+43,Physics,Optics,Optics Tutorial 1,Complete explanation of Optics concepts for beginners,https://example.com/optics/0,article
+44,Physics,Optics,Optics Tutorial 2,Complete explanation of Optics concepts for beginners,https://example.com/optics/1,practice
+45,Physics,Optics,Optics Tutorial 3,Complete explanation of Optics concepts for beginners,https://example.com/optics/2,article
+46,Physics,Optics,Optics Tutorial 4,Complete explanation of Optics concepts for beginners,https://example.com/optics/3,practice
+47,Physics,Optics,Optics Tutorial 5,Complete explanation of Optics concepts for beginners,https://example.com/optics/4,video
+48,Physics,Optics,Optics Tutorial 6,Complete explanation of Optics concepts for beginners,https://example.com/optics/5,practice
+49,Physics,Electromagnetism,Electromagnetism Tutorial 1,Complete explanation of Electromagnetism concepts for beginners,https://example.com/electromagnetism/0,video
+50,Physics,Electromagnetism,Electromagnetism Tutorial 2,Complete explanation of Electromagnetism concepts for beginners,https://example.com/electromagnetism/1,video
+51,Physics,Electromagnetism,Electromagnetism Tutorial 3,Complete explanation of Electromagnetism concepts for beginners,https://example.com/electromagnetism/2,practice
+52,Physics,Electromagnetism,Electromagnetism Tutorial 4,Complete explanation of Electromagnetism concepts for beginners,https://example.com/electromagnetism/3,video
+53,Physics,Electromagnetism,Electromagnetism Tutorial 5,Complete explanation of Electromagnetism concepts for beginners,https://example.com/electromagnetism/4,video
+54,Physics,Electromagnetism,Electromagnetism Tutorial 6,Complete explanation of Electromagnetism concepts for beginners,https://example.com/electromagnetism/5,article
+55,Physics,Quantum Mechanics,Quantum Mechanics Tutorial 1,Complete explanation of Quantum Mechanics concepts for beginners,https://example.com/quantum_mechanics/0,practice
+56,Physics,Quantum Mechanics,Quantum Mechanics Tutorial 2,Complete explanation of Quantum Mechanics concepts for beginners,https://example.com/quantum_mechanics/1,article
+57,Physics,Quantum Mechanics,Quantum Mechanics Tutorial 3,Complete explanation of Quantum Mechanics concepts for beginners,https://example.com/quantum_mechanics/2,video
+58,Physics,Quantum Mechanics,Quantum Mechanics Tutorial 4,Complete explanation of Quantum Mechanics concepts for beginners,https://example.com/quantum_mechanics/3,practice
+59,Physics,Quantum Mechanics,Quantum Mechanics Tutorial 5,Complete explanation of Quantum Mechanics concepts for beginners,https://example.com/quantum_mechanics/4,article
+60,Physics,Quantum Mechanics,Quantum Mechanics Tutorial 6,Complete explanation of Quantum Mechanics concepts for beginners,https://example.com/quantum_mechanics/5,article
+61,Biology,Photosynthesis,Photosynthesis Tutorial 1,Complete explanation of Photosynthesis concepts for beginners,https://example.com/photosynthesis/0,practice
+62,Biology,Photosynthesis,Photosynthesis Tutorial 2,Complete explanation of Photosynthesis concepts for beginners,https://example.com/photosynthesis/1,practice
+63,Biology,Photosynthesis,Photosynthesis Tutorial 3,Complete explanation of Photosynthesis concepts for beginners,https://example.com/photosynthesis/2,video
+64,Biology,Photosynthesis,Photosynthesis Tutorial 4,Complete explanation of Photosynthesis concepts for beginners,https://example.com/photosynthesis/3,practice
+65,Biology,Photosynthesis,Photosynthesis Tutorial 5,Complete explanation of Photosynthesis concepts for beginners,https://example.com/photosynthesis/4,practice
+66,Biology,Photosynthesis,Photosynthesis Tutorial 6,Complete explanation of Photosynthesis concepts for beginners,https://example.com/photosynthesis/5,article
+67,Biology,Cell Division,Cell Division Tutorial 1,Complete explanation of Cell Division concepts for beginners,https://example.com/cell_division/0,video
+68,Biology,Cell Division,Cell Division Tutorial 2,Complete explanation of Cell Division concepts for beginners,https://example.com/cell_division/1,article
+69,Biology,Cell Division,Cell Division Tutorial 3,Complete explanation of Cell Division concepts for beginners,https://example.com/cell_division/2,practice
+70,Biology,Cell Division,Cell Division Tutorial 4,Complete explanation of Cell Division concepts for beginners,https://example.com/cell_division/3,video
+71,Biology,Cell Division,Cell Division Tutorial 5,Complete explanation of Cell Division concepts for beginners,https://example.com/cell_division/4,video
+72,Biology,Cell Division,Cell Division Tutorial 6,Complete explanation of Cell Division concepts for beginners,https://example.com/cell_division/5,practice
+73,Biology,Genetics,Genetics Tutorial 1,Complete explanation of Genetics concepts for beginners,https://example.com/genetics/0,article
+74,Biology,Genetics,Genetics Tutorial 2,Complete explanation of Genetics concepts for beginners,https://example.com/genetics/1,video
+75,Biology,Genetics,Genetics Tutorial 3,Complete explanation of Genetics concepts for beginners,https://example.com/genetics/2,video
+76,Biology,Genetics,Genetics Tutorial 4,Complete explanation of Genetics concepts for beginners,https://example.com/genetics/3,article
+77,Biology,Genetics,Genetics Tutorial 5,Complete explanation of Genetics concepts for beginners,https://example.com/genetics/4,practice
+78,Biology,Genetics,Genetics Tutorial 6,Complete explanation of Genetics concepts for beginners,https://example.com/genetics/5,video
+79,Biology,Human Anatomy,Human Anatomy Tutorial 1,Complete explanation of Human Anatomy concepts for beginners,https://example.com/human_anatomy/0,article
+80,Biology,Human Anatomy,Human Anatomy Tutorial 2,Complete explanation of Human Anatomy concepts for beginners,https://example.com/human_anatomy/1,practice
+81,Biology,Human Anatomy,Human Anatomy Tutorial 3,Complete explanation of Human Anatomy concepts for beginners,https://example.com/human_anatomy/2,video
+82,Biology,Human Anatomy,Human Anatomy Tutorial 4,Complete explanation of Human Anatomy concepts for beginners,https://example.com/human_anatomy/3,practice
+83,Biology,Human Anatomy,Human Anatomy Tutorial 5,Complete explanation of Human Anatomy concepts for beginners,https://example.com/human_anatomy/4,video
+84,Biology,Human Anatomy,Human Anatomy Tutorial 6,Complete explanation of Human Anatomy concepts for beginners,https://example.com/human_anatomy/5,video
+85,Biology,Evolution,Evolution Tutorial 1,Complete explanation of Evolution concepts for beginners,https://example.com/evolution/0,practice
+86,Biology,Evolution,Evolution Tutorial 2,Complete explanation of Evolution concepts for beginners,https://example.com/evolution/1,video
+87,Biology,Evolution,Evolution Tutorial 3,Complete explanation of Evolution concepts for beginners,https://example.com/evolution/2,practice
+88,Biology,Evolution,Evolution Tutorial 4,Complete explanation of Evolution concepts for beginners,https://example.com/evolution/3,article
+89,Biology,Evolution,Evolution Tutorial 5,Complete explanation of Evolution concepts for beginners,https://example.com/evolution/4,video
+90,Biology,Evolution,Evolution Tutorial 6,Complete explanation of Evolution concepts for beginners,https://example.com/evolution/5,article
+91,AI,Machine Learning,Machine Learning Tutorial 1,Complete explanation of Machine Learning concepts for beginners,https://example.com/machine_learning/0,article
+92,AI,Machine Learning,Machine Learning Tutorial 2,Complete explanation of Machine Learning concepts for beginners,https://example.com/machine_learning/1,video
+93,AI,Machine Learning,Machine Learning Tutorial 3,Complete explanation of Machine Learning concepts for beginners,https://example.com/machine_learning/2,article
+94,AI,Machine Learning,Machine Learning Tutorial 4,Complete explanation of Machine Learning concepts for beginners,https://example.com/machine_learning/3,article
+95,AI,Machine Learning,Machine Learning Tutorial 5,Complete explanation of Machine Learning concepts for beginners,https://example.com/machine_learning/4,article
+96,AI,Machine Learning,Machine Learning Tutorial 6,Complete explanation of Machine Learning concepts for beginners,https://example.com/machine_learning/5,practice
+97,AI,Neural Networks,Neural Networks Tutorial 1,Complete explanation of Neural Networks concepts for beginners,https://example.com/neural_networks/0,video
+98,AI,Neural Networks,Neural Networks Tutorial 2,Complete explanation of Neural Networks concepts for beginners,https://example.com/neural_networks/1,video
+99,AI,Neural Networks,Neural Networks Tutorial 3,Complete explanation of Neural Networks concepts for beginners,https://example.com/neural_networks/2,video
+100,AI,Neural Networks,Neural Networks Tutorial 4,Complete explanation of Neural Networks concepts for beginners,https://example.com/neural_networks/3,video
+101,AI,Neural Networks,Neural Networks Tutorial 5,Complete explanation of Neural Networks concepts for beginners,https://example.com/neural_networks/4,article
+102,AI,Neural Networks,Neural Networks Tutorial 6,Complete explanation of Neural Networks concepts for beginners,https://example.com/neural_networks/5,video
+103,AI,Deep Learning,Deep Learning Tutorial 1,Complete explanation of Deep Learning concepts for beginners,https://example.com/deep_learning/0,practice
+104,AI,Deep Learning,Deep Learning Tutorial 2,Complete explanation of Deep Learning concepts for beginners,https://example.com/deep_learning/1,article
+105,AI,Deep Learning,Deep Learning Tutorial 3,Complete explanation of Deep Learning concepts for beginners,https://example.com/deep_learning/2,video
+106,AI,Deep Learning,Deep Learning Tutorial 4,Complete explanation of Deep Learning concepts for beginners,https://example.com/deep_learning/3,article
+107,AI,Deep Learning,Deep Learning Tutorial 5,Complete explanation of Deep Learning concepts for beginners,https://example.com/deep_learning/4,practice
+108,AI,Deep Learning,Deep Learning Tutorial 6,Complete explanation of Deep Learning concepts for beginners,https://example.com/deep_learning/5,practice
+109,AI,Natural Language Processing,Natural Language Processing Tutorial 1,Complete explanation of Natural Language Processing concepts for beginners,https://example.com/natural_language_processing/0,video
+110,AI,Natural Language Processing,Natural Language Processing Tutorial 2,Complete explanation of Natural Language Processing concepts for beginners,https://example.com/natural_language_processing/1,video
+111,AI,Natural Language Processing,Natural Language Processing Tutorial 3,Complete explanation of Natural Language Processing concepts for beginners,https://example.com/natural_language_processing/2,article
+112,AI,Natural Language Processing,Natural Language Processing Tutorial 4,Complete explanation of Natural Language Processing concepts for beginners,https://example.com/natural_language_processing/3,article
+113,AI,Natural Language Processing,Natural Language Processing Tutorial 5,Complete explanation of Natural Language Processing concepts for beginners,https://example.com/natural_language_processing/4,video
+114,AI,Natural Language Processing,Natural Language Processing Tutorial 6,Complete explanation of Natural Language Processing concepts for beginners,https://example.com/natural_language_processing/5,video
+115,AI,Computer Vision,Computer Vision Tutorial 1,Complete explanation of Computer Vision concepts for beginners,https://example.com/computer_vision/0,video
+116,AI,Computer Vision,Computer Vision Tutorial 2,Complete explanation of Computer Vision concepts for beginners,https://example.com/computer_vision/1,practice
+117,AI,Computer Vision,Computer Vision Tutorial 3,Complete explanation of Computer Vision concepts for beginners,https://example.com/computer_vision/2,video
+118,AI,Computer Vision,Computer Vision Tutorial 4,Complete explanation of Computer Vision concepts for beginners,https://example.com/computer_vision/3,video
+119,AI,Computer Vision,Computer Vision Tutorial 5,Complete explanation of Computer Vision concepts for beginners,https://example.com/computer_vision/4,video
+120,AI,Computer Vision,Computer Vision Tutorial 6,Complete explanation of Computer Vision concepts for beginners,https://example.com/computer_vision/5,video
+121,Chemistry,Organic Chemistry,Organic Chemistry Tutorial 1,Complete explanation of Organic Chemistry concepts for beginners,https://example.com/organic_chemistry/0,practice
+122,Chemistry,Organic Chemistry,Organic Chemistry Tutorial 2,Complete explanation of Organic Chemistry concepts for beginners,https://example.com/organic_chemistry/1,article
+123,Chemistry,Organic Chemistry,Organic Chemistry Tutorial 3,Complete explanation of Organic Chemistry concepts for beginners,https://example.com/organic_chemistry/2,video
+124,Chemistry,Organic Chemistry,Organic Chemistry Tutorial 4,Complete explanation of Organic Chemistry concepts for beginners,https://example.com/organic_chemistry/3,video
+125,Chemistry,Organic Chemistry,Organic Chemistry Tutorial 5,Complete explanation of Organic Chemistry concepts for beginners,https://example.com/organic_chemistry/4,video
+126,Chemistry,Organic Chemistry,Organic Chemistry Tutorial 6,Complete explanation of Organic Chemistry concepts for beginners,https://example.com/organic_chemistry/5,video
+127,Chemistry,Chemical Bonds,Chemical Bonds Tutorial 1,Complete explanation of Chemical Bonds concepts for beginners,https://example.com/chemical_bonds/0,article
+128,Chemistry,Chemical Bonds,Chemical Bonds Tutorial 2,Complete explanation of Chemical Bonds concepts for beginners,https://example.com/chemical_bonds/1,practice
+129,Chemistry,Chemical Bonds,Chemical Bonds Tutorial 3,Complete explanation of Chemical Bonds concepts for beginners,https://example.com/chemical_bonds/2,article
+130,Chemistry,Chemical Bonds,Chemical Bonds Tutorial 4,Complete explanation of Chemical Bonds concepts for beginners,https://example.com/chemical_bonds/3,article
+131,Chemistry,Chemical Bonds,Chemical Bonds Tutorial 5,Complete explanation of Chemical Bonds concepts for beginners,https://example.com/chemical_bonds/4,practice
+132,Chemistry,Chemical Bonds,Chemical Bonds Tutorial 6,Complete explanation of Chemical Bonds concepts for beginners,https://example.com/chemical_bonds/5,practice
+133,Chemistry,Periodic Table,Periodic Table Tutorial 1,Complete explanation of Periodic Table concepts for beginners,https://example.com/periodic_table/0,practice
+134,Chemistry,Periodic Table,Periodic Table Tutorial 2,Complete explanation of Periodic Table concepts for beginners,https://example.com/periodic_table/1,video
+135,Chemistry,Periodic Table,Periodic Table Tutorial 3,Complete explanation of Periodic Table concepts for beginners,https://example.com/periodic_table/2,article
+136,Chemistry,Periodic Table,Periodic Table Tutorial 4,Complete explanation of Periodic Table concepts for beginners,https://example.com/periodic_table/3,article
+137,Chemistry,Periodic Table,Periodic Table Tutorial 5,Complete explanation of Periodic Table concepts for beginners,https://example.com/periodic_table/4,practice
+138,Chemistry,Periodic Table,Periodic Table Tutorial 6,Complete explanation of Periodic Table concepts for beginners,https://example.com/periodic_table/5,video
+139,Chemistry,Acids and Bases,Acids and Bases Tutorial 1,Complete explanation of Acids and Bases concepts for beginners,https://example.com/acids_and_bases/0,article
+140,Chemistry,Acids and Bases,Acids and Bases Tutorial 2,Complete explanation of Acids and Bases concepts for beginners,https://example.com/acids_and_bases/1,article
+141,Chemistry,Acids and Bases,Acids and Bases Tutorial 3,Complete explanation of Acids and Bases concepts for beginners,https://example.com/acids_and_bases/2,article
+142,Chemistry,Acids and Bases,Acids and Bases Tutorial 4,Complete explanation of Acids and Bases concepts for beginners,https://example.com/acids_and_bases/3,video
+143,Chemistry,Acids and Bases,Acids and Bases Tutorial 5,Complete explanation of Acids and Bases concepts for beginners,https://example.com/acids_and_bases/4,practice
+144,Chemistry,Acids and Bases,Acids and Bases Tutorial 6,Complete explanation of Acids and Bases concepts for beginners,https://example.com/acids_and_bases/5,practice
+145,Chemistry,Electrochemistry,Electrochemistry Tutorial 1,Complete explanation of Electrochemistry concepts for beginners,https://example.com/electrochemistry/0,practice
+146,Chemistry,Electrochemistry,Electrochemistry Tutorial 2,Complete explanation of Electrochemistry concepts for beginners,https://example.com/electrochemistry/1,video
+147,Chemistry,Electrochemistry,Electrochemistry Tutorial 3,Complete explanation of Electrochemistry concepts for beginners,https://example.com/electrochemistry/2,video
+148,Chemistry,Electrochemistry,Electrochemistry Tutorial 4,Complete explanation of Electrochemistry concepts for beginners,https://example.com/electrochemistry/3,article
+149,Chemistry,Electrochemistry,Electrochemistry Tutorial 5,Complete explanation of Electrochemistry concepts for beginners,https://example.com/electrochemistry/4,video
+150,Chemistry,Electrochemistry,Electrochemistry Tutorial 6,Complete explanation of Electrochemistry concepts for beginners,https://example.com/electrochemistry/5,article
